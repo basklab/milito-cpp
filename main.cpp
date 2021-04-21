@@ -7,6 +7,10 @@
 int main() {
     std::cout << "Hello, World!" << std::endl;
 
+    xyz();
+
+    return 0;
+
 //    LeaderCard l(12,12,12,"");
 
 
